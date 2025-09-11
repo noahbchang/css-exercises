@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.honey, 
+.broody {
+    font-size:28px;
+    font-family:"Helvetica", "Times New Roman", sans-serif
+}
+
+.broody {
+    background-color: black;
+    color:white;
+}
+
+.honey {
+    background-color: yellow;
+}

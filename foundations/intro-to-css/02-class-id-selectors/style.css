@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.cool {
+    background-color: pink;    
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size:24px;   
+}
+
+#hall {
+    color: blue;
+    font-size: 36px;
+}
+
+#oates {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight:bold;
+}
